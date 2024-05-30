@@ -73,3 +73,7 @@ h2 {
     font-family: monospace;
 }
 
+.display {
+    display: flex;
+}
+
