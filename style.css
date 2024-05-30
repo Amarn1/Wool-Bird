@@ -76,4 +76,20 @@ h2 {
 .display {
     display: flex;
 }
+.container {
+    width:90%;
+    display: flex;
+}
+
+#gridpic {
+    width:40%;
+    display: flex;
+    align-items: center;
+    margin:10px;
+    justify-content: center;
+}
+
+#picsingrid {
+    width:500px;
+}
 
